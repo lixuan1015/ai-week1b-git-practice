@@ -63,3 +63,10 @@ git push -u origin add-about-me
 
 Put the link to your **merged pull request** in your Week 1b tutorial file and submit it on
 [eQIU](https://eqiu.qiu.edu.my/course/view.php?id=7852).
+
+## About me
+
+- **Name: Ching Li Xuan**
+- **Programme: BCS**
+- **One AI topic I am curious about: Machine Learning**
+- **Why it interests me (one sentence): I have interest about algorithm**
